@@ -10,3 +10,12 @@ It starts from a single neuron (a perceptron) and builds up. The notebook record
 `nn_from_scratch.ipynb` is the main notebook; `nn_from_scratch2.ipynb` is a cleaner second version.
 
 Stack: Python, NumPy, Matplotlib.
+
+## How to run
+
+```bash
+pip install numpy matplotlib tqdm jupyter
+jupyter notebook nn_from_scratch.ipynb
+```
+
+Run the cells top to bottom. `data2D.csv` is included.
